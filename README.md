@@ -12,5 +12,5 @@ You can add new expenses and view past expenses. The app also includes a chart t
 
 ## Screenshots
 
-!(Start screen)[documentation/UI/home-screen.png]
-!(Start screen)[documentation/UI/add-expense-screen.png]
+![Start screen](documentation/UI/home-screen.png)
+![Start screen](documentation/UI/add-expense-screen.png)
